@@ -1,0 +1,158 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Open+Sans&family=Poppins:wght@400;500;600;700&family=Work+Sans:wght@500&display=swap');
+
+
+/* header section */
+
+.header{ 
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+.head{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 10px 10px 40px;
+    
+}
+.head-title-1{  font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 36px;
+    
+   }
+
+.head-2{ 
+    font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    margin: 20px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+/* .head-3{ 
+  margin: 135px 520px;
+} */
+
+.head-title-2{ 
+   
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 135px 40px 10px 560px;
+    font-size: 30px;
+}
+
+.head-title-3{ 
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin:5px 500px 10px;
+    font-size: 30px;
+}
+
+.head-title-4{ 
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin:20px 300px 10px 320px;
+    font-size: 14px;
+     
+}
+
+.button{ font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+
+    background-color: rgba(255, 144, 14, 1);
+    width: 120px;
+    height: 45px;
+   border: 2px solid rgba(255, 144, 14, 0.1);
+   border-radius: 8px;
+   margin:25px 500px 10px 550px;
+   color: aliceblue;
+   font-size: 15px;
+ }
+
+ .img{ 
+    margin-left: 125px;
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+/* Banner section  */
+
+.banner{ 
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-left: 130px;
+    margin: 50px 0px;
+
+}
+
+
+.banner-img{ 
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap: 10px;
+}
+.banner-img img{ 
+    width: 250px;
+    height: 240px;
+    border: 2px;
+    box-shadow:22px  rgba(255, 144, 14, 0.1) ;
+}
+
+.banner-head{ 
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 36px;
+    margin-top: 130px;
+
+}
+.banner-description{ 
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 150px;
+}
+ .button-primary{ 
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+
+    background-color: rgba(255, 144, 14, 1);
+    width: 120px;
+    height: 40px;
+   border: 2px solid rgba(255, 144, 14, 0.1);
+   border-radius: 8px;
+   color: aliceblue;
+   font-size: 15px;
+   margin-top: 15px;
+ }
+.banner-description{
+ font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+
+}
